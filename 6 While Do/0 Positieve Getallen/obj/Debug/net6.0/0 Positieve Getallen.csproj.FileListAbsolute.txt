@@ -1,0 +1,15 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\6 While Do\0 Positieve Getallen\bin\Debug\net6.0\0 Positieve Getallen.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\6 While Do\0 Positieve Getallen\bin\Debug\net6.0\0 Positieve Getallen.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\6 While Do\0 Positieve Getallen\bin\Debug\net6.0\0 Positieve Getallen.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\6 While Do\0 Positieve Getallen\bin\Debug\net6.0\0 Positieve Getallen.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\6 While Do\0 Positieve Getallen\bin\Debug\net6.0\0 Positieve Getallen.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\6 While Do\0 Positieve Getallen\obj\Debug\net6.0\0 Positieve Getallen.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\6 While Do\0 Positieve Getallen\obj\Debug\net6.0\0 Positieve Getallen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\6 While Do\0 Positieve Getallen\obj\Debug\net6.0\0 Positieve Getallen.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\6 While Do\0 Positieve Getallen\obj\Debug\net6.0\0 Positieve Getallen.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\6 While Do\0 Positieve Getallen\obj\Debug\net6.0\0 Positieve Getallen.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\6 While Do\0 Positieve Getallen\obj\Debug\net6.0\0 Positieve Getallen.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\6 While Do\0 Positieve Getallen\obj\Debug\net6.0\refint\0 Positieve Getallen.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\6 While Do\0 Positieve Getallen\obj\Debug\net6.0\0 Positieve Getallen.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\6 While Do\0 Positieve Getallen\obj\Debug\net6.0\0 Positieve Getallen.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\6 While Do\0 Positieve Getallen\obj\Debug\net6.0\ref\0 Positieve Getallen.dll

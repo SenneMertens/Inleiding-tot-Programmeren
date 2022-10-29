@@ -1,0 +1,21 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\1 Vrienden\bin\Debug\net6.0\1 Vrienden.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\1 Vrienden\bin\Debug\net6.0\vrienden-1.txt
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\1 Vrienden\bin\Debug\net6.0\vrienden-2.txt
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\1 Vrienden\bin\Debug\net6.0\vrienden-3.txt
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\1 Vrienden\bin\Debug\net6.0\vrienden-4.txt
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\1 Vrienden\bin\Debug\net6.0\vrienden-5.txt
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\1 Vrienden\bin\Debug\net6.0\vrienden-6.txt
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\1 Vrienden\bin\Debug\net6.0\1 Vrienden.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\1 Vrienden\bin\Debug\net6.0\1 Vrienden.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\1 Vrienden\bin\Debug\net6.0\1 Vrienden.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\1 Vrienden\bin\Debug\net6.0\1 Vrienden.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\1 Vrienden\obj\Debug\net6.0\1 Vrienden.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\1 Vrienden\obj\Debug\net6.0\1 Vrienden.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\1 Vrienden\obj\Debug\net6.0\1 Vrienden.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\1 Vrienden\obj\Debug\net6.0\1 Vrienden.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\1 Vrienden\obj\Debug\net6.0\1 Vrienden.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\1 Vrienden\obj\Debug\net6.0\1 Vrienden.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\1 Vrienden\obj\Debug\net6.0\refint\1 Vrienden.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\1 Vrienden\obj\Debug\net6.0\1 Vrienden.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\1 Vrienden\obj\Debug\net6.0\1 Vrienden.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\1 Vrienden\obj\Debug\net6.0\ref\1 Vrienden.dll

@@ -1,0 +1,15 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\2 Artikelprijs Berekenen\bin\Debug\net6.0\2 Artikelprijs Berekenen.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\2 Artikelprijs Berekenen\bin\Debug\net6.0\2 Artikelprijs Berekenen.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\2 Artikelprijs Berekenen\bin\Debug\net6.0\2 Artikelprijs Berekenen.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\2 Artikelprijs Berekenen\bin\Debug\net6.0\2 Artikelprijs Berekenen.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\2 Artikelprijs Berekenen\bin\Debug\net6.0\2 Artikelprijs Berekenen.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\2 Artikelprijs Berekenen\obj\Debug\net6.0\2 Artikelprijs Berekenen.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\2 Artikelprijs Berekenen\obj\Debug\net6.0\2 Artikelprijs Berekenen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\2 Artikelprijs Berekenen\obj\Debug\net6.0\2 Artikelprijs Berekenen.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\2 Artikelprijs Berekenen\obj\Debug\net6.0\2 Artikelprijs Berekenen.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\2 Artikelprijs Berekenen\obj\Debug\net6.0\2 Artikelprijs Berekenen.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\2 Artikelprijs Berekenen\obj\Debug\net6.0\2 Artikelprijs Berekenen.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\2 Artikelprijs Berekenen\obj\Debug\net6.0\refint\2 Artikelprijs Berekenen.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\2 Artikelprijs Berekenen\obj\Debug\net6.0\2 Artikelprijs Berekenen.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\2 Artikelprijs Berekenen\obj\Debug\net6.0\2 Artikelprijs Berekenen.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\2 Artikelprijs Berekenen\obj\Debug\net6.0\ref\2 Artikelprijs Berekenen.dll

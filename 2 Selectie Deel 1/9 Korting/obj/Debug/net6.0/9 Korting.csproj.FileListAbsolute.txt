@@ -1,0 +1,15 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\9 Korting\bin\Debug\net6.0\9 Korting.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\9 Korting\bin\Debug\net6.0\9 Korting.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\9 Korting\bin\Debug\net6.0\9 Korting.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\9 Korting\bin\Debug\net6.0\9 Korting.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\9 Korting\bin\Debug\net6.0\9 Korting.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\9 Korting\obj\Debug\net6.0\9 Korting.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\9 Korting\obj\Debug\net6.0\9 Korting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\9 Korting\obj\Debug\net6.0\9 Korting.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\9 Korting\obj\Debug\net6.0\9 Korting.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\9 Korting\obj\Debug\net6.0\9 Korting.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\9 Korting\obj\Debug\net6.0\9 Korting.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\9 Korting\obj\Debug\net6.0\refint\9 Korting.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\9 Korting\obj\Debug\net6.0\9 Korting.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\9 Korting\obj\Debug\net6.0\9 Korting.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\9 Korting\obj\Debug\net6.0\ref\9 Korting.dll

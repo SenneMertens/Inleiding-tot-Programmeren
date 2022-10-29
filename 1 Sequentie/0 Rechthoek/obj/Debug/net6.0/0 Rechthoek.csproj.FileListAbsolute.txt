@@ -1,0 +1,15 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\0 Rechthoek\bin\Debug\net6.0\0 Rechthoek.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\0 Rechthoek\bin\Debug\net6.0\0 Rechthoek.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\0 Rechthoek\bin\Debug\net6.0\0 Rechthoek.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\0 Rechthoek\bin\Debug\net6.0\0 Rechthoek.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\0 Rechthoek\bin\Debug\net6.0\0 Rechthoek.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\0 Rechthoek\obj\Debug\net6.0\0 Rechthoek.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\0 Rechthoek\obj\Debug\net6.0\0 Rechthoek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\0 Rechthoek\obj\Debug\net6.0\0 Rechthoek.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\0 Rechthoek\obj\Debug\net6.0\0 Rechthoek.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\0 Rechthoek\obj\Debug\net6.0\0 Rechthoek.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\0 Rechthoek\obj\Debug\net6.0\0 Rechthoek.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\0 Rechthoek\obj\Debug\net6.0\refint\0 Rechthoek.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\0 Rechthoek\obj\Debug\net6.0\0 Rechthoek.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\0 Rechthoek\obj\Debug\net6.0\0 Rechthoek.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\0 Rechthoek\obj\Debug\net6.0\ref\0 Rechthoek.dll

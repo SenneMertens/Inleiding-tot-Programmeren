@@ -1,0 +1,15 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\2 Deling\bin\Debug\net6.0\2 Deling.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\2 Deling\bin\Debug\net6.0\2 Deling.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\2 Deling\bin\Debug\net6.0\2 Deling.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\2 Deling\bin\Debug\net6.0\2 Deling.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\2 Deling\bin\Debug\net6.0\2 Deling.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\2 Deling\obj\Debug\net6.0\2 Deling.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\2 Deling\obj\Debug\net6.0\2 Deling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\2 Deling\obj\Debug\net6.0\2 Deling.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\2 Deling\obj\Debug\net6.0\2 Deling.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\2 Deling\obj\Debug\net6.0\2 Deling.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\2 Deling\obj\Debug\net6.0\2 Deling.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\2 Deling\obj\Debug\net6.0\refint\2 Deling.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\2 Deling\obj\Debug\net6.0\2 Deling.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\2 Deling\obj\Debug\net6.0\2 Deling.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\2 Deling\obj\Debug\net6.0\ref\2 Deling.dll

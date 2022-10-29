@@ -1,0 +1,15 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\3 Leeftijdsgroep\bin\Debug\net6.0\3 Leeftijdsgroep.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\3 Leeftijdsgroep\bin\Debug\net6.0\3 Leeftijdsgroep.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\3 Leeftijdsgroep\bin\Debug\net6.0\3 Leeftijdsgroep.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\3 Leeftijdsgroep\bin\Debug\net6.0\3 Leeftijdsgroep.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\3 Leeftijdsgroep\bin\Debug\net6.0\3 Leeftijdsgroep.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\3 Leeftijdsgroep\obj\Debug\net6.0\3 Leeftijdsgroep.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\3 Leeftijdsgroep\obj\Debug\net6.0\3 Leeftijdsgroep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\3 Leeftijdsgroep\obj\Debug\net6.0\3 Leeftijdsgroep.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\3 Leeftijdsgroep\obj\Debug\net6.0\3 Leeftijdsgroep.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\3 Leeftijdsgroep\obj\Debug\net6.0\3 Leeftijdsgroep.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\3 Leeftijdsgroep\obj\Debug\net6.0\3 Leeftijdsgroep.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\3 Leeftijdsgroep\obj\Debug\net6.0\refint\3 Leeftijdsgroep.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\3 Leeftijdsgroep\obj\Debug\net6.0\3 Leeftijdsgroep.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\3 Leeftijdsgroep\obj\Debug\net6.0\3 Leeftijdsgroep.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\3 Leeftijdsgroep\obj\Debug\net6.0\ref\3 Leeftijdsgroep.dll

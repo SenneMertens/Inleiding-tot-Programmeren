@@ -1,0 +1,15 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\6 While Do\5 Klassenoverzicht\bin\Debug\net6.0\5 Klassenoverzicht.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\6 While Do\5 Klassenoverzicht\bin\Debug\net6.0\5 Klassenoverzicht.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\6 While Do\5 Klassenoverzicht\bin\Debug\net6.0\5 Klassenoverzicht.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\6 While Do\5 Klassenoverzicht\bin\Debug\net6.0\5 Klassenoverzicht.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\6 While Do\5 Klassenoverzicht\bin\Debug\net6.0\5 Klassenoverzicht.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\6 While Do\5 Klassenoverzicht\obj\Debug\net6.0\5 Klassenoverzicht.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\6 While Do\5 Klassenoverzicht\obj\Debug\net6.0\5 Klassenoverzicht.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\6 While Do\5 Klassenoverzicht\obj\Debug\net6.0\5 Klassenoverzicht.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\6 While Do\5 Klassenoverzicht\obj\Debug\net6.0\5 Klassenoverzicht.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\6 While Do\5 Klassenoverzicht\obj\Debug\net6.0\5 Klassenoverzicht.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\6 While Do\5 Klassenoverzicht\obj\Debug\net6.0\5 Klassenoverzicht.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\6 While Do\5 Klassenoverzicht\obj\Debug\net6.0\refint\5 Klassenoverzicht.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\6 While Do\5 Klassenoverzicht\obj\Debug\net6.0\5 Klassenoverzicht.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\6 While Do\5 Klassenoverzicht\obj\Debug\net6.0\5 Klassenoverzicht.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\6 While Do\5 Klassenoverzicht\obj\Debug\net6.0\ref\5 Klassenoverzicht.dll

@@ -1,0 +1,15 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\9 Grootste Gemeenschappelijke Deler\bin\Debug\net6.0\9 Grootste Gemeenschappelijke Deler.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\9 Grootste Gemeenschappelijke Deler\bin\Debug\net6.0\9 Grootste Gemeenschappelijke Deler.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\9 Grootste Gemeenschappelijke Deler\bin\Debug\net6.0\9 Grootste Gemeenschappelijke Deler.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\9 Grootste Gemeenschappelijke Deler\bin\Debug\net6.0\9 Grootste Gemeenschappelijke Deler.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\9 Grootste Gemeenschappelijke Deler\bin\Debug\net6.0\9 Grootste Gemeenschappelijke Deler.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\9 Grootste Gemeenschappelijke Deler\obj\Debug\net6.0\9 Grootste Gemeenschappelijke Deler.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\9 Grootste Gemeenschappelijke Deler\obj\Debug\net6.0\9 Grootste Gemeenschappelijke Deler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\9 Grootste Gemeenschappelijke Deler\obj\Debug\net6.0\9 Grootste Gemeenschappelijke Deler.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\9 Grootste Gemeenschappelijke Deler\obj\Debug\net6.0\9 Grootste Gemeenschappelijke Deler.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\9 Grootste Gemeenschappelijke Deler\obj\Debug\net6.0\9 Grootste Gemeenschappelijke Deler.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\9 Grootste Gemeenschappelijke Deler\obj\Debug\net6.0\9 Grootste Gemeenschappelijke Deler.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\9 Grootste Gemeenschappelijke Deler\obj\Debug\net6.0\refint\9 Grootste Gemeenschappelijke Deler.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\9 Grootste Gemeenschappelijke Deler\obj\Debug\net6.0\9 Grootste Gemeenschappelijke Deler.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\9 Grootste Gemeenschappelijke Deler\obj\Debug\net6.0\9 Grootste Gemeenschappelijke Deler.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\9 Grootste Gemeenschappelijke Deler\obj\Debug\net6.0\ref\9 Grootste Gemeenschappelijke Deler.dll

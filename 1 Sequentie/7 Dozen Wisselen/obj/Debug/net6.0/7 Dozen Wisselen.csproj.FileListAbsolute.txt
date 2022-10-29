@@ -1,0 +1,15 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\7 Dozen Wisselen\bin\Debug\net6.0\7 Dozen Wisselen.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\7 Dozen Wisselen\bin\Debug\net6.0\7 Dozen Wisselen.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\7 Dozen Wisselen\bin\Debug\net6.0\7 Dozen Wisselen.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\7 Dozen Wisselen\bin\Debug\net6.0\7 Dozen Wisselen.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\7 Dozen Wisselen\bin\Debug\net6.0\7 Dozen Wisselen.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\7 Dozen Wisselen\obj\Debug\net6.0\7 Dozen Wisselen.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\7 Dozen Wisselen\obj\Debug\net6.0\7 Dozen Wisselen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\7 Dozen Wisselen\obj\Debug\net6.0\7 Dozen Wisselen.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\7 Dozen Wisselen\obj\Debug\net6.0\7 Dozen Wisselen.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\7 Dozen Wisselen\obj\Debug\net6.0\7 Dozen Wisselen.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\7 Dozen Wisselen\obj\Debug\net6.0\7 Dozen Wisselen.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\7 Dozen Wisselen\obj\Debug\net6.0\refint\7 Dozen Wisselen.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\7 Dozen Wisselen\obj\Debug\net6.0\7 Dozen Wisselen.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\7 Dozen Wisselen\obj\Debug\net6.0\7 Dozen Wisselen.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\7 Dozen Wisselen\obj\Debug\net6.0\ref\7 Dozen Wisselen.dll

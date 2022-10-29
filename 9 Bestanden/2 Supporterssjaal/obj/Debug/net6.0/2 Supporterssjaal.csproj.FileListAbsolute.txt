@@ -1,0 +1,21 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\2 Supporterssjaal\bin\Debug\net6.0\2 Supporterssjaal.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\2 Supporterssjaal\bin\Debug\net6.0\sjaal-1.txt
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\2 Supporterssjaal\bin\Debug\net6.0\sjaal-2.txt
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\2 Supporterssjaal\bin\Debug\net6.0\sjaal-3.txt
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\2 Supporterssjaal\bin\Debug\net6.0\sjaal-4.txt
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\2 Supporterssjaal\bin\Debug\net6.0\sjaal-5.txt
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\2 Supporterssjaal\bin\Debug\net6.0\sjaal-6.txt
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\2 Supporterssjaal\bin\Debug\net6.0\2 Supporterssjaal.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\2 Supporterssjaal\bin\Debug\net6.0\2 Supporterssjaal.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\2 Supporterssjaal\bin\Debug\net6.0\2 Supporterssjaal.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\2 Supporterssjaal\bin\Debug\net6.0\2 Supporterssjaal.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\2 Supporterssjaal\obj\Debug\net6.0\2 Supporterssjaal.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\2 Supporterssjaal\obj\Debug\net6.0\2 Supporterssjaal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\2 Supporterssjaal\obj\Debug\net6.0\2 Supporterssjaal.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\2 Supporterssjaal\obj\Debug\net6.0\2 Supporterssjaal.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\2 Supporterssjaal\obj\Debug\net6.0\2 Supporterssjaal.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\2 Supporterssjaal\obj\Debug\net6.0\2 Supporterssjaal.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\2 Supporterssjaal\obj\Debug\net6.0\refint\2 Supporterssjaal.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\2 Supporterssjaal\obj\Debug\net6.0\2 Supporterssjaal.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\2 Supporterssjaal\obj\Debug\net6.0\2 Supporterssjaal.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\2 Supporterssjaal\obj\Debug\net6.0\ref\2 Supporterssjaal.dll

@@ -1,0 +1,21 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\5 Bewerkingen\bin\Debug\net6.0\5 Bewerkingen.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\5 Bewerkingen\bin\Debug\net6.0\bewerkingen-1.txt
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\5 Bewerkingen\bin\Debug\net6.0\bewerkingen-2.txt
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\5 Bewerkingen\bin\Debug\net6.0\bewerkingen-3.txt
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\5 Bewerkingen\bin\Debug\net6.0\bewerkingen-4.txt
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\5 Bewerkingen\bin\Debug\net6.0\bewerkingen-5.txt
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\5 Bewerkingen\bin\Debug\net6.0\bewerkingen-6.txt
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\5 Bewerkingen\bin\Debug\net6.0\5 Bewerkingen.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\5 Bewerkingen\bin\Debug\net6.0\5 Bewerkingen.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\5 Bewerkingen\bin\Debug\net6.0\5 Bewerkingen.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\5 Bewerkingen\bin\Debug\net6.0\5 Bewerkingen.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\5 Bewerkingen\obj\Debug\net6.0\5 Bewerkingen.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\5 Bewerkingen\obj\Debug\net6.0\5 Bewerkingen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\5 Bewerkingen\obj\Debug\net6.0\5 Bewerkingen.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\5 Bewerkingen\obj\Debug\net6.0\5 Bewerkingen.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\5 Bewerkingen\obj\Debug\net6.0\5 Bewerkingen.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\5 Bewerkingen\obj\Debug\net6.0\5 Bewerkingen.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\5 Bewerkingen\obj\Debug\net6.0\refint\5 Bewerkingen.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\5 Bewerkingen\obj\Debug\net6.0\5 Bewerkingen.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\5 Bewerkingen\obj\Debug\net6.0\5 Bewerkingen.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\5 Bewerkingen\obj\Debug\net6.0\ref\5 Bewerkingen.dll

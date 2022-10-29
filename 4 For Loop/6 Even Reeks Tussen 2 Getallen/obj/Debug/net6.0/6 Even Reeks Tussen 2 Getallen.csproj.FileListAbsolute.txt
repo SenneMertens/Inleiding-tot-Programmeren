@@ -1,0 +1,15 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\6 Even Reeks Tussen 2 Getallen\bin\Debug\net6.0\6 Even Reeks Tussen 2 Getallen.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\6 Even Reeks Tussen 2 Getallen\bin\Debug\net6.0\6 Even Reeks Tussen 2 Getallen.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\6 Even Reeks Tussen 2 Getallen\bin\Debug\net6.0\6 Even Reeks Tussen 2 Getallen.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\6 Even Reeks Tussen 2 Getallen\bin\Debug\net6.0\6 Even Reeks Tussen 2 Getallen.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\6 Even Reeks Tussen 2 Getallen\bin\Debug\net6.0\6 Even Reeks Tussen 2 Getallen.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\6 Even Reeks Tussen 2 Getallen\obj\Debug\net6.0\6 Even Reeks Tussen 2 Getallen.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\6 Even Reeks Tussen 2 Getallen\obj\Debug\net6.0\6 Even Reeks Tussen 2 Getallen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\6 Even Reeks Tussen 2 Getallen\obj\Debug\net6.0\6 Even Reeks Tussen 2 Getallen.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\6 Even Reeks Tussen 2 Getallen\obj\Debug\net6.0\6 Even Reeks Tussen 2 Getallen.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\6 Even Reeks Tussen 2 Getallen\obj\Debug\net6.0\6 Even Reeks Tussen 2 Getallen.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\6 Even Reeks Tussen 2 Getallen\obj\Debug\net6.0\6 Even Reeks Tussen 2 Getallen.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\6 Even Reeks Tussen 2 Getallen\obj\Debug\net6.0\refint\6 Even Reeks Tussen 2 Getallen.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\6 Even Reeks Tussen 2 Getallen\obj\Debug\net6.0\6 Even Reeks Tussen 2 Getallen.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\6 Even Reeks Tussen 2 Getallen\obj\Debug\net6.0\6 Even Reeks Tussen 2 Getallen.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\6 Even Reeks Tussen 2 Getallen\obj\Debug\net6.0\ref\6 Even Reeks Tussen 2 Getallen.dll

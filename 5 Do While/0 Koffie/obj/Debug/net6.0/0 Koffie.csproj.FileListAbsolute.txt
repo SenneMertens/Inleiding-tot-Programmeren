@@ -1,0 +1,15 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\0 Koffie\bin\Debug\net6.0\0 Koffie.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\0 Koffie\bin\Debug\net6.0\0 Koffie.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\0 Koffie\bin\Debug\net6.0\0 Koffie.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\0 Koffie\bin\Debug\net6.0\0 Koffie.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\0 Koffie\bin\Debug\net6.0\0 Koffie.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\0 Koffie\obj\Debug\net6.0\0 Koffie.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\0 Koffie\obj\Debug\net6.0\0 Koffie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\0 Koffie\obj\Debug\net6.0\0 Koffie.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\0 Koffie\obj\Debug\net6.0\0 Koffie.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\0 Koffie\obj\Debug\net6.0\0 Koffie.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\0 Koffie\obj\Debug\net6.0\0 Koffie.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\0 Koffie\obj\Debug\net6.0\refint\0 Koffie.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\0 Koffie\obj\Debug\net6.0\0 Koffie.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\0 Koffie\obj\Debug\net6.0\0 Koffie.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\0 Koffie\obj\Debug\net6.0\ref\0 Koffie.dll

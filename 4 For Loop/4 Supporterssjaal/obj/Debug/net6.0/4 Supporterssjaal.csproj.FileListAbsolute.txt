@@ -1,0 +1,15 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\4 Supporterssjaal\bin\Debug\net6.0\4 Supporterssjaal.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\4 Supporterssjaal\bin\Debug\net6.0\4 Supporterssjaal.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\4 Supporterssjaal\bin\Debug\net6.0\4 Supporterssjaal.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\4 Supporterssjaal\bin\Debug\net6.0\4 Supporterssjaal.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\4 Supporterssjaal\bin\Debug\net6.0\4 Supporterssjaal.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\4 Supporterssjaal\obj\Debug\net6.0\4 Supporterssjaal.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\4 Supporterssjaal\obj\Debug\net6.0\4 Supporterssjaal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\4 Supporterssjaal\obj\Debug\net6.0\4 Supporterssjaal.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\4 Supporterssjaal\obj\Debug\net6.0\4 Supporterssjaal.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\4 Supporterssjaal\obj\Debug\net6.0\4 Supporterssjaal.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\4 Supporterssjaal\obj\Debug\net6.0\4 Supporterssjaal.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\4 Supporterssjaal\obj\Debug\net6.0\refint\4 Supporterssjaal.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\4 Supporterssjaal\obj\Debug\net6.0\4 Supporterssjaal.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\4 Supporterssjaal\obj\Debug\net6.0\4 Supporterssjaal.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\4 Supporterssjaal\obj\Debug\net6.0\ref\4 Supporterssjaal.dll

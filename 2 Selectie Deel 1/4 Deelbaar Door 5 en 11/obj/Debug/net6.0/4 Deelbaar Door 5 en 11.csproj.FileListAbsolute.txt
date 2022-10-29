@@ -1,0 +1,15 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\4 Deelbaar Door 5 en 11\bin\Debug\net6.0\4 Deelbaar Door 5 en 11.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\4 Deelbaar Door 5 en 11\bin\Debug\net6.0\4 Deelbaar Door 5 en 11.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\4 Deelbaar Door 5 en 11\bin\Debug\net6.0\4 Deelbaar Door 5 en 11.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\4 Deelbaar Door 5 en 11\bin\Debug\net6.0\4 Deelbaar Door 5 en 11.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\4 Deelbaar Door 5 en 11\bin\Debug\net6.0\4 Deelbaar Door 5 en 11.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\4 Deelbaar Door 5 en 11\obj\Debug\net6.0\4 Deelbaar Door 5 en 11.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\4 Deelbaar Door 5 en 11\obj\Debug\net6.0\4 Deelbaar Door 5 en 11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\4 Deelbaar Door 5 en 11\obj\Debug\net6.0\4 Deelbaar Door 5 en 11.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\4 Deelbaar Door 5 en 11\obj\Debug\net6.0\4 Deelbaar Door 5 en 11.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\4 Deelbaar Door 5 en 11\obj\Debug\net6.0\4 Deelbaar Door 5 en 11.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\4 Deelbaar Door 5 en 11\obj\Debug\net6.0\4 Deelbaar Door 5 en 11.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\4 Deelbaar Door 5 en 11\obj\Debug\net6.0\refint\4 Deelbaar Door 5 en 11.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\4 Deelbaar Door 5 en 11\obj\Debug\net6.0\4 Deelbaar Door 5 en 11.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\4 Deelbaar Door 5 en 11\obj\Debug\net6.0\4 Deelbaar Door 5 en 11.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\4 Deelbaar Door 5 en 11\obj\Debug\net6.0\ref\4 Deelbaar Door 5 en 11.dll

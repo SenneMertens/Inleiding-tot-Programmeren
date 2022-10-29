@@ -1,0 +1,15 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\8 Maaltafel\bin\Debug\net6.0\8 Maaltafel.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\8 Maaltafel\bin\Debug\net6.0\8 Maaltafel.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\8 Maaltafel\bin\Debug\net6.0\8 Maaltafel.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\8 Maaltafel\bin\Debug\net6.0\8 Maaltafel.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\8 Maaltafel\bin\Debug\net6.0\8 Maaltafel.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\8 Maaltafel\obj\Debug\net6.0\8 Maaltafel.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\8 Maaltafel\obj\Debug\net6.0\8 Maaltafel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\8 Maaltafel\obj\Debug\net6.0\8 Maaltafel.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\8 Maaltafel\obj\Debug\net6.0\8 Maaltafel.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\8 Maaltafel\obj\Debug\net6.0\8 Maaltafel.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\8 Maaltafel\obj\Debug\net6.0\8 Maaltafel.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\8 Maaltafel\obj\Debug\net6.0\refint\8 Maaltafel.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\8 Maaltafel\obj\Debug\net6.0\8 Maaltafel.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\8 Maaltafel\obj\Debug\net6.0\8 Maaltafel.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\8 Maaltafel\obj\Debug\net6.0\ref\8 Maaltafel.dll

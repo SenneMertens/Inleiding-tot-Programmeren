@@ -1,0 +1,21 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\0 Som van een Bestand\bin\Debug\net6.0\0 Som van een Bestand.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\0 Som van een Bestand\bin\Debug\net6.0\getallen-1.txt
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\0 Som van een Bestand\bin\Debug\net6.0\getallen-2.txt
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\0 Som van een Bestand\bin\Debug\net6.0\getallen-3.txt
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\0 Som van een Bestand\bin\Debug\net6.0\getallen-4.txt
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\0 Som van een Bestand\bin\Debug\net6.0\getallen-5.txt
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\0 Som van een Bestand\bin\Debug\net6.0\getallen-6.txt
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\0 Som van een Bestand\bin\Debug\net6.0\0 Som van een Bestand.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\0 Som van een Bestand\bin\Debug\net6.0\0 Som van een Bestand.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\0 Som van een Bestand\bin\Debug\net6.0\0 Som van een Bestand.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\0 Som van een Bestand\bin\Debug\net6.0\0 Som van een Bestand.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\0 Som van een Bestand\obj\Debug\net6.0\0 Som van een Bestand.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\0 Som van een Bestand\obj\Debug\net6.0\0 Som van een Bestand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\0 Som van een Bestand\obj\Debug\net6.0\0 Som van een Bestand.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\0 Som van een Bestand\obj\Debug\net6.0\0 Som van een Bestand.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\0 Som van een Bestand\obj\Debug\net6.0\0 Som van een Bestand.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\0 Som van een Bestand\obj\Debug\net6.0\0 Som van een Bestand.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\0 Som van een Bestand\obj\Debug\net6.0\refint\0 Som van een Bestand.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\0 Som van een Bestand\obj\Debug\net6.0\0 Som van een Bestand.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\0 Som van een Bestand\obj\Debug\net6.0\0 Som van een Bestand.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\0 Som van een Bestand\obj\Debug\net6.0\ref\0 Som van een Bestand.dll

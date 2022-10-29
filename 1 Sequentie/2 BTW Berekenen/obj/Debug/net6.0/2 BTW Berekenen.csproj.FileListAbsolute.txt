@@ -1,0 +1,15 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\2 BTW Berekenen\bin\Debug\net6.0\2 BTW Berekenen.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\2 BTW Berekenen\bin\Debug\net6.0\2 BTW Berekenen.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\2 BTW Berekenen\bin\Debug\net6.0\2 BTW Berekenen.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\2 BTW Berekenen\bin\Debug\net6.0\2 BTW Berekenen.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\2 BTW Berekenen\bin\Debug\net6.0\2 BTW Berekenen.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\2 BTW Berekenen\obj\Debug\net6.0\2 BTW Berekenen.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\2 BTW Berekenen\obj\Debug\net6.0\2 BTW Berekenen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\2 BTW Berekenen\obj\Debug\net6.0\2 BTW Berekenen.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\2 BTW Berekenen\obj\Debug\net6.0\2 BTW Berekenen.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\2 BTW Berekenen\obj\Debug\net6.0\2 BTW Berekenen.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\2 BTW Berekenen\obj\Debug\net6.0\2 BTW Berekenen.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\2 BTW Berekenen\obj\Debug\net6.0\refint\2 BTW Berekenen.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\2 BTW Berekenen\obj\Debug\net6.0\2 BTW Berekenen.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\2 BTW Berekenen\obj\Debug\net6.0\2 BTW Berekenen.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\2 BTW Berekenen\obj\Debug\net6.0\ref\2 BTW Berekenen.dll

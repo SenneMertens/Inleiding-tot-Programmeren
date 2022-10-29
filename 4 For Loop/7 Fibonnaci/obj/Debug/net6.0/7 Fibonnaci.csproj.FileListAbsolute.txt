@@ -1,0 +1,15 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\7 Fibonnaci\bin\Debug\net6.0\7 Fibonnaci.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\7 Fibonnaci\bin\Debug\net6.0\7 Fibonnaci.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\7 Fibonnaci\bin\Debug\net6.0\7 Fibonnaci.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\7 Fibonnaci\bin\Debug\net6.0\7 Fibonnaci.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\7 Fibonnaci\bin\Debug\net6.0\7 Fibonnaci.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\7 Fibonnaci\obj\Debug\net6.0\7 Fibonnaci.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\7 Fibonnaci\obj\Debug\net6.0\7 Fibonnaci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\7 Fibonnaci\obj\Debug\net6.0\7 Fibonnaci.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\7 Fibonnaci\obj\Debug\net6.0\7 Fibonnaci.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\7 Fibonnaci\obj\Debug\net6.0\7 Fibonnaci.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\7 Fibonnaci\obj\Debug\net6.0\7 Fibonnaci.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\7 Fibonnaci\obj\Debug\net6.0\refint\7 Fibonnaci.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\7 Fibonnaci\obj\Debug\net6.0\7 Fibonnaci.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\7 Fibonnaci\obj\Debug\net6.0\7 Fibonnaci.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\7 Fibonnaci\obj\Debug\net6.0\ref\7 Fibonnaci.dll

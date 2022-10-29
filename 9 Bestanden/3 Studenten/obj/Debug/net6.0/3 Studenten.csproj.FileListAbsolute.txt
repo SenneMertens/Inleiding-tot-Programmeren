@@ -1,0 +1,22 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\3 Studenten\bin\Debug\net6.0\3 Studenten.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\3 Studenten\bin\Debug\net6.0\menu.txt
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\3 Studenten\bin\Debug\net6.0\studenten-1.txt
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\3 Studenten\bin\Debug\net6.0\studenten-2.txt
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\3 Studenten\bin\Debug\net6.0\studenten-3.txt
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\3 Studenten\bin\Debug\net6.0\studenten-4.txt
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\3 Studenten\bin\Debug\net6.0\studenten-5.txt
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\3 Studenten\bin\Debug\net6.0\studenten-6.txt
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\3 Studenten\bin\Debug\net6.0\3 Studenten.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\3 Studenten\bin\Debug\net6.0\3 Studenten.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\3 Studenten\bin\Debug\net6.0\3 Studenten.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\3 Studenten\bin\Debug\net6.0\3 Studenten.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\3 Studenten\obj\Debug\net6.0\3 Studenten.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\3 Studenten\obj\Debug\net6.0\3 Studenten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\3 Studenten\obj\Debug\net6.0\3 Studenten.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\3 Studenten\obj\Debug\net6.0\3 Studenten.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\3 Studenten\obj\Debug\net6.0\3 Studenten.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\3 Studenten\obj\Debug\net6.0\3 Studenten.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\3 Studenten\obj\Debug\net6.0\refint\3 Studenten.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\3 Studenten\obj\Debug\net6.0\3 Studenten.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\3 Studenten\obj\Debug\net6.0\3 Studenten.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\3 Studenten\obj\Debug\net6.0\ref\3 Studenten.dll

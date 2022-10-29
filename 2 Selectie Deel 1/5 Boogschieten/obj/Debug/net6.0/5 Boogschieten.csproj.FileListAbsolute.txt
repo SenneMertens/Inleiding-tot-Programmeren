@@ -1,0 +1,15 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\5 Boogschieten\bin\Debug\net6.0\5 Boogschieten.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\5 Boogschieten\bin\Debug\net6.0\5 Boogschieten.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\5 Boogschieten\bin\Debug\net6.0\5 Boogschieten.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\5 Boogschieten\bin\Debug\net6.0\5 Boogschieten.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\5 Boogschieten\bin\Debug\net6.0\5 Boogschieten.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\5 Boogschieten\obj\Debug\net6.0\5 Boogschieten.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\5 Boogschieten\obj\Debug\net6.0\5 Boogschieten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\5 Boogschieten\obj\Debug\net6.0\5 Boogschieten.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\5 Boogschieten\obj\Debug\net6.0\5 Boogschieten.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\5 Boogschieten\obj\Debug\net6.0\5 Boogschieten.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\5 Boogschieten\obj\Debug\net6.0\5 Boogschieten.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\5 Boogschieten\obj\Debug\net6.0\refint\5 Boogschieten.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\5 Boogschieten\obj\Debug\net6.0\5 Boogschieten.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\5 Boogschieten\obj\Debug\net6.0\5 Boogschieten.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\5 Boogschieten\obj\Debug\net6.0\ref\5 Boogschieten.dll

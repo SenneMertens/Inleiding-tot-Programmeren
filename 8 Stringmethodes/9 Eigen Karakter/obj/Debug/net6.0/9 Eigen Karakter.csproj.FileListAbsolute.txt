@@ -1,0 +1,15 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\9 Eigen Karakter\bin\Debug\net6.0\9 Eigen Karakter.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\9 Eigen Karakter\bin\Debug\net6.0\9 Eigen Karakter.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\9 Eigen Karakter\bin\Debug\net6.0\9 Eigen Karakter.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\9 Eigen Karakter\bin\Debug\net6.0\9 Eigen Karakter.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\9 Eigen Karakter\bin\Debug\net6.0\9 Eigen Karakter.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\9 Eigen Karakter\obj\Debug\net6.0\9 Eigen Karakter.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\9 Eigen Karakter\obj\Debug\net6.0\9 Eigen Karakter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\9 Eigen Karakter\obj\Debug\net6.0\9 Eigen Karakter.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\9 Eigen Karakter\obj\Debug\net6.0\9 Eigen Karakter.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\9 Eigen Karakter\obj\Debug\net6.0\9 Eigen Karakter.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\9 Eigen Karakter\obj\Debug\net6.0\9 Eigen Karakter.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\9 Eigen Karakter\obj\Debug\net6.0\refint\9 Eigen Karakter.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\9 Eigen Karakter\obj\Debug\net6.0\9 Eigen Karakter.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\9 Eigen Karakter\obj\Debug\net6.0\9 Eigen Karakter.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\9 Eigen Karakter\obj\Debug\net6.0\ref\9 Eigen Karakter.dll

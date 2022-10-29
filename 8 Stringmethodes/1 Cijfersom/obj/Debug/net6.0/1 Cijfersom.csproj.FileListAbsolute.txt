@@ -1,0 +1,15 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\1 Cijfersom\bin\Debug\net6.0\1 Cijfersom.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\1 Cijfersom\bin\Debug\net6.0\1 Cijfersom.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\1 Cijfersom\bin\Debug\net6.0\1 Cijfersom.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\1 Cijfersom\bin\Debug\net6.0\1 Cijfersom.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\1 Cijfersom\bin\Debug\net6.0\1 Cijfersom.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\1 Cijfersom\obj\Debug\net6.0\1 Cijfersom.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\1 Cijfersom\obj\Debug\net6.0\1 Cijfersom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\1 Cijfersom\obj\Debug\net6.0\1 Cijfersom.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\1 Cijfersom\obj\Debug\net6.0\1 Cijfersom.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\1 Cijfersom\obj\Debug\net6.0\1 Cijfersom.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\1 Cijfersom\obj\Debug\net6.0\1 Cijfersom.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\1 Cijfersom\obj\Debug\net6.0\refint\1 Cijfersom.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\1 Cijfersom\obj\Debug\net6.0\1 Cijfersom.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\1 Cijfersom\obj\Debug\net6.0\1 Cijfersom.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\1 Cijfersom\obj\Debug\net6.0\ref\1 Cijfersom.dll

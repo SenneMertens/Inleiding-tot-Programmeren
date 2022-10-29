@@ -1,0 +1,15 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\3 Leeftijdsgroep Bepalen\bin\Debug\net6.0\3 Leeftijdsgroep Bepalen.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\3 Leeftijdsgroep Bepalen\bin\Debug\net6.0\3 Leeftijdsgroep Bepalen.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\3 Leeftijdsgroep Bepalen\bin\Debug\net6.0\3 Leeftijdsgroep Bepalen.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\3 Leeftijdsgroep Bepalen\bin\Debug\net6.0\3 Leeftijdsgroep Bepalen.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\3 Leeftijdsgroep Bepalen\bin\Debug\net6.0\3 Leeftijdsgroep Bepalen.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\3 Leeftijdsgroep Bepalen\obj\Debug\net6.0\3 Leeftijdsgroep Bepalen.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\3 Leeftijdsgroep Bepalen\obj\Debug\net6.0\3 Leeftijdsgroep Bepalen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\3 Leeftijdsgroep Bepalen\obj\Debug\net6.0\3 Leeftijdsgroep Bepalen.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\3 Leeftijdsgroep Bepalen\obj\Debug\net6.0\3 Leeftijdsgroep Bepalen.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\3 Leeftijdsgroep Bepalen\obj\Debug\net6.0\3 Leeftijdsgroep Bepalen.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\3 Leeftijdsgroep Bepalen\obj\Debug\net6.0\3 Leeftijdsgroep Bepalen.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\3 Leeftijdsgroep Bepalen\obj\Debug\net6.0\refint\3 Leeftijdsgroep Bepalen.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\3 Leeftijdsgroep Bepalen\obj\Debug\net6.0\3 Leeftijdsgroep Bepalen.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\3 Leeftijdsgroep Bepalen\obj\Debug\net6.0\3 Leeftijdsgroep Bepalen.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\3 Leeftijdsgroep Bepalen\obj\Debug\net6.0\ref\3 Leeftijdsgroep Bepalen.dll

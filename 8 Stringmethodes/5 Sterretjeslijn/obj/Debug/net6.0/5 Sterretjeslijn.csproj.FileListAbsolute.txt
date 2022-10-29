@@ -1,0 +1,15 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\5 Sterretjeslijn\bin\Debug\net6.0\5 Sterretjeslijn.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\5 Sterretjeslijn\bin\Debug\net6.0\5 Sterretjeslijn.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\5 Sterretjeslijn\bin\Debug\net6.0\5 Sterretjeslijn.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\5 Sterretjeslijn\bin\Debug\net6.0\5 Sterretjeslijn.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\5 Sterretjeslijn\bin\Debug\net6.0\5 Sterretjeslijn.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\5 Sterretjeslijn\obj\Debug\net6.0\5 Sterretjeslijn.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\5 Sterretjeslijn\obj\Debug\net6.0\5 Sterretjeslijn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\5 Sterretjeslijn\obj\Debug\net6.0\5 Sterretjeslijn.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\5 Sterretjeslijn\obj\Debug\net6.0\5 Sterretjeslijn.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\5 Sterretjeslijn\obj\Debug\net6.0\5 Sterretjeslijn.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\5 Sterretjeslijn\obj\Debug\net6.0\5 Sterretjeslijn.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\5 Sterretjeslijn\obj\Debug\net6.0\refint\5 Sterretjeslijn.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\5 Sterretjeslijn\obj\Debug\net6.0\5 Sterretjeslijn.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\5 Sterretjeslijn\obj\Debug\net6.0\5 Sterretjeslijn.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\5 Sterretjeslijn\obj\Debug\net6.0\ref\5 Sterretjeslijn.dll

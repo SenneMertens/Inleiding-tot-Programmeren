@@ -1,0 +1,15 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\10 Middelste Nummer\bin\Debug\net6.0\10 Middelste Nummer.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\10 Middelste Nummer\bin\Debug\net6.0\10 Middelste Nummer.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\10 Middelste Nummer\bin\Debug\net6.0\10 Middelste Nummer.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\10 Middelste Nummer\bin\Debug\net6.0\10 Middelste Nummer.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\10 Middelste Nummer\bin\Debug\net6.0\10 Middelste Nummer.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\10 Middelste Nummer\obj\Debug\net6.0\10 Middelste Nummer.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\10 Middelste Nummer\obj\Debug\net6.0\10 Middelste Nummer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\10 Middelste Nummer\obj\Debug\net6.0\10 Middelste Nummer.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\10 Middelste Nummer\obj\Debug\net6.0\10 Middelste Nummer.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\10 Middelste Nummer\obj\Debug\net6.0\10 Middelste Nummer.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\10 Middelste Nummer\obj\Debug\net6.0\10 Middelste Nummer.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\10 Middelste Nummer\obj\Debug\net6.0\refint\10 Middelste Nummer.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\10 Middelste Nummer\obj\Debug\net6.0\10 Middelste Nummer.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\10 Middelste Nummer\obj\Debug\net6.0\10 Middelste Nummer.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\10 Middelste Nummer\obj\Debug\net6.0\ref\10 Middelste Nummer.dll

@@ -1,0 +1,15 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\6 Zelfde Letters\bin\Debug\net6.0\6 Zelfde Letters.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\6 Zelfde Letters\bin\Debug\net6.0\6 Zelfde Letters.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\6 Zelfde Letters\bin\Debug\net6.0\6 Zelfde Letters.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\6 Zelfde Letters\bin\Debug\net6.0\6 Zelfde Letters.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\6 Zelfde Letters\bin\Debug\net6.0\6 Zelfde Letters.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\6 Zelfde Letters\obj\Debug\net6.0\6 Zelfde Letters.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\6 Zelfde Letters\obj\Debug\net6.0\6 Zelfde Letters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\6 Zelfde Letters\obj\Debug\net6.0\6 Zelfde Letters.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\6 Zelfde Letters\obj\Debug\net6.0\6 Zelfde Letters.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\6 Zelfde Letters\obj\Debug\net6.0\6 Zelfde Letters.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\6 Zelfde Letters\obj\Debug\net6.0\6 Zelfde Letters.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\6 Zelfde Letters\obj\Debug\net6.0\refint\6 Zelfde Letters.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\6 Zelfde Letters\obj\Debug\net6.0\6 Zelfde Letters.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\6 Zelfde Letters\obj\Debug\net6.0\6 Zelfde Letters.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\6 Zelfde Letters\obj\Debug\net6.0\ref\6 Zelfde Letters.dll

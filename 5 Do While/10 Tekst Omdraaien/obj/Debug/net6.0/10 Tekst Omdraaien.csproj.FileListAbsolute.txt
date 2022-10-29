@@ -1,0 +1,15 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\10 Tekst Omdraaien\bin\Debug\net6.0\10 Tekst Omdraaien.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\10 Tekst Omdraaien\bin\Debug\net6.0\10 Tekst Omdraaien.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\10 Tekst Omdraaien\bin\Debug\net6.0\10 Tekst Omdraaien.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\10 Tekst Omdraaien\bin\Debug\net6.0\10 Tekst Omdraaien.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\10 Tekst Omdraaien\bin\Debug\net6.0\10 Tekst Omdraaien.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\10 Tekst Omdraaien\obj\Debug\net6.0\10 Tekst Omdraaien.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\10 Tekst Omdraaien\obj\Debug\net6.0\10 Tekst Omdraaien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\10 Tekst Omdraaien\obj\Debug\net6.0\10 Tekst Omdraaien.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\10 Tekst Omdraaien\obj\Debug\net6.0\10 Tekst Omdraaien.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\10 Tekst Omdraaien\obj\Debug\net6.0\10 Tekst Omdraaien.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\10 Tekst Omdraaien\obj\Debug\net6.0\10 Tekst Omdraaien.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\10 Tekst Omdraaien\obj\Debug\net6.0\refint\10 Tekst Omdraaien.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\10 Tekst Omdraaien\obj\Debug\net6.0\10 Tekst Omdraaien.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\10 Tekst Omdraaien\obj\Debug\net6.0\10 Tekst Omdraaien.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\10 Tekst Omdraaien\obj\Debug\net6.0\ref\10 Tekst Omdraaien.dll

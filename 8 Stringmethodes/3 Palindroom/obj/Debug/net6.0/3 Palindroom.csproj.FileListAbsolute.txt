@@ -1,0 +1,15 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\3 Palindroom\bin\Debug\net6.0\3 Palindroom.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\3 Palindroom\bin\Debug\net6.0\3 Palindroom.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\3 Palindroom\bin\Debug\net6.0\3 Palindroom.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\3 Palindroom\bin\Debug\net6.0\3 Palindroom.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\3 Palindroom\bin\Debug\net6.0\3 Palindroom.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\3 Palindroom\obj\Debug\net6.0\3 Palindroom.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\3 Palindroom\obj\Debug\net6.0\3 Palindroom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\3 Palindroom\obj\Debug\net6.0\3 Palindroom.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\3 Palindroom\obj\Debug\net6.0\3 Palindroom.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\3 Palindroom\obj\Debug\net6.0\3 Palindroom.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\3 Palindroom\obj\Debug\net6.0\3 Palindroom.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\3 Palindroom\obj\Debug\net6.0\refint\3 Palindroom.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\3 Palindroom\obj\Debug\net6.0\3 Palindroom.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\3 Palindroom\obj\Debug\net6.0\3 Palindroom.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\3 Palindroom\obj\Debug\net6.0\ref\3 Palindroom.dll

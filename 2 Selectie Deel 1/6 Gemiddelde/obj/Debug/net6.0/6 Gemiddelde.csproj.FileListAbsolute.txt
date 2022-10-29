@@ -1,0 +1,15 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\6 Gemiddelde\bin\Debug\net6.0\6 Gemiddelde.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\6 Gemiddelde\bin\Debug\net6.0\6 Gemiddelde.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\6 Gemiddelde\bin\Debug\net6.0\6 Gemiddelde.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\6 Gemiddelde\bin\Debug\net6.0\6 Gemiddelde.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\6 Gemiddelde\bin\Debug\net6.0\6 Gemiddelde.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\6 Gemiddelde\obj\Debug\net6.0\6 Gemiddelde.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\6 Gemiddelde\obj\Debug\net6.0\6 Gemiddelde.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\6 Gemiddelde\obj\Debug\net6.0\6 Gemiddelde.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\6 Gemiddelde\obj\Debug\net6.0\6 Gemiddelde.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\6 Gemiddelde\obj\Debug\net6.0\6 Gemiddelde.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\6 Gemiddelde\obj\Debug\net6.0\6 Gemiddelde.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\6 Gemiddelde\obj\Debug\net6.0\refint\6 Gemiddelde.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\6 Gemiddelde\obj\Debug\net6.0\6 Gemiddelde.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\6 Gemiddelde\obj\Debug\net6.0\6 Gemiddelde.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\6 Gemiddelde\obj\Debug\net6.0\ref\6 Gemiddelde.dll

@@ -1,0 +1,15 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\10 Som Deelbaar Door 10\bin\Debug\net6.0\10 Som Deelbaar Door 10.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\10 Som Deelbaar Door 10\bin\Debug\net6.0\10 Som Deelbaar Door 10.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\10 Som Deelbaar Door 10\bin\Debug\net6.0\10 Som Deelbaar Door 10.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\10 Som Deelbaar Door 10\bin\Debug\net6.0\10 Som Deelbaar Door 10.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\10 Som Deelbaar Door 10\bin\Debug\net6.0\10 Som Deelbaar Door 10.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\10 Som Deelbaar Door 10\obj\Debug\net6.0\10 Som Deelbaar Door 10.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\10 Som Deelbaar Door 10\obj\Debug\net6.0\10 Som Deelbaar Door 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\10 Som Deelbaar Door 10\obj\Debug\net6.0\10 Som Deelbaar Door 10.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\10 Som Deelbaar Door 10\obj\Debug\net6.0\10 Som Deelbaar Door 10.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\10 Som Deelbaar Door 10\obj\Debug\net6.0\10 Som Deelbaar Door 10.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\10 Som Deelbaar Door 10\obj\Debug\net6.0\10 Som Deelbaar Door 10.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\10 Som Deelbaar Door 10\obj\Debug\net6.0\refint\10 Som Deelbaar Door 10.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\10 Som Deelbaar Door 10\obj\Debug\net6.0\10 Som Deelbaar Door 10.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\10 Som Deelbaar Door 10\obj\Debug\net6.0\10 Som Deelbaar Door 10.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\10 Som Deelbaar Door 10\obj\Debug\net6.0\ref\10 Som Deelbaar Door 10.dll

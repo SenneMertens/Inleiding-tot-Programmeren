@@ -1,0 +1,15 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\8 Opeenvolgende Som\bin\Debug\net6.0\8 Opeenvolgende Som.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\8 Opeenvolgende Som\bin\Debug\net6.0\8 Opeenvolgende Som.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\8 Opeenvolgende Som\bin\Debug\net6.0\8 Opeenvolgende Som.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\8 Opeenvolgende Som\bin\Debug\net6.0\8 Opeenvolgende Som.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\8 Opeenvolgende Som\bin\Debug\net6.0\8 Opeenvolgende Som.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\8 Opeenvolgende Som\obj\Debug\net6.0\8 Opeenvolgende Som.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\8 Opeenvolgende Som\obj\Debug\net6.0\8 Opeenvolgende Som.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\8 Opeenvolgende Som\obj\Debug\net6.0\8 Opeenvolgende Som.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\8 Opeenvolgende Som\obj\Debug\net6.0\8 Opeenvolgende Som.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\8 Opeenvolgende Som\obj\Debug\net6.0\8 Opeenvolgende Som.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\8 Opeenvolgende Som\obj\Debug\net6.0\8 Opeenvolgende Som.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\8 Opeenvolgende Som\obj\Debug\net6.0\refint\8 Opeenvolgende Som.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\8 Opeenvolgende Som\obj\Debug\net6.0\8 Opeenvolgende Som.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\8 Opeenvolgende Som\obj\Debug\net6.0\8 Opeenvolgende Som.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\8 Opeenvolgende Som\obj\Debug\net6.0\ref\8 Opeenvolgende Som.dll

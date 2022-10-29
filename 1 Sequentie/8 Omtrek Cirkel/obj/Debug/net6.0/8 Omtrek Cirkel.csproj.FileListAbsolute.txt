@@ -1,0 +1,15 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\8 Omtrek Cirkel\bin\Debug\net6.0\8 Omtrek Cirkel.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\8 Omtrek Cirkel\bin\Debug\net6.0\8 Omtrek Cirkel.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\8 Omtrek Cirkel\bin\Debug\net6.0\8 Omtrek Cirkel.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\8 Omtrek Cirkel\bin\Debug\net6.0\8 Omtrek Cirkel.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\8 Omtrek Cirkel\bin\Debug\net6.0\8 Omtrek Cirkel.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\8 Omtrek Cirkel\obj\Debug\net6.0\8 Omtrek Cirkel.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\8 Omtrek Cirkel\obj\Debug\net6.0\8 Omtrek Cirkel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\8 Omtrek Cirkel\obj\Debug\net6.0\8 Omtrek Cirkel.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\8 Omtrek Cirkel\obj\Debug\net6.0\8 Omtrek Cirkel.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\8 Omtrek Cirkel\obj\Debug\net6.0\8 Omtrek Cirkel.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\8 Omtrek Cirkel\obj\Debug\net6.0\8 Omtrek Cirkel.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\8 Omtrek Cirkel\obj\Debug\net6.0\refint\8 Omtrek Cirkel.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\8 Omtrek Cirkel\obj\Debug\net6.0\8 Omtrek Cirkel.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\8 Omtrek Cirkel\obj\Debug\net6.0\8 Omtrek Cirkel.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\8 Omtrek Cirkel\obj\Debug\net6.0\ref\8 Omtrek Cirkel.dll

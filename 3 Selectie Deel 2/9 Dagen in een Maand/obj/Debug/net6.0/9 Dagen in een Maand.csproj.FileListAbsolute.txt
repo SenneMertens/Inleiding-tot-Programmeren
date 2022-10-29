@@ -1,0 +1,15 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\9 Dagen in een Maand\bin\Debug\net6.0\9 Dagen in een Maand.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\9 Dagen in een Maand\bin\Debug\net6.0\9 Dagen in een Maand.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\9 Dagen in een Maand\bin\Debug\net6.0\9 Dagen in een Maand.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\9 Dagen in een Maand\bin\Debug\net6.0\9 Dagen in een Maand.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\9 Dagen in een Maand\bin\Debug\net6.0\9 Dagen in een Maand.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\9 Dagen in een Maand\obj\Debug\net6.0\9 Dagen in een Maand.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\9 Dagen in een Maand\obj\Debug\net6.0\9 Dagen in een Maand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\9 Dagen in een Maand\obj\Debug\net6.0\9 Dagen in een Maand.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\9 Dagen in een Maand\obj\Debug\net6.0\9 Dagen in een Maand.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\9 Dagen in een Maand\obj\Debug\net6.0\9 Dagen in een Maand.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\9 Dagen in een Maand\obj\Debug\net6.0\9 Dagen in een Maand.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\9 Dagen in een Maand\obj\Debug\net6.0\refint\9 Dagen in een Maand.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\9 Dagen in een Maand\obj\Debug\net6.0\9 Dagen in een Maand.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\9 Dagen in een Maand\obj\Debug\net6.0\9 Dagen in een Maand.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\9 Dagen in een Maand\obj\Debug\net6.0\ref\9 Dagen in een Maand.dll

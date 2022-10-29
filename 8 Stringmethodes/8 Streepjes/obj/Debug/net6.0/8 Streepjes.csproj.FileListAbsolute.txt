@@ -1,0 +1,15 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\8 Streepjes\bin\Debug\net6.0\8 Streepjes.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\8 Streepjes\bin\Debug\net6.0\8 Streepjes.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\8 Streepjes\bin\Debug\net6.0\8 Streepjes.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\8 Streepjes\bin\Debug\net6.0\8 Streepjes.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\8 Streepjes\bin\Debug\net6.0\8 Streepjes.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\8 Streepjes\obj\Debug\net6.0\8 Streepjes.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\8 Streepjes\obj\Debug\net6.0\8 Streepjes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\8 Streepjes\obj\Debug\net6.0\8 Streepjes.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\8 Streepjes\obj\Debug\net6.0\8 Streepjes.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\8 Streepjes\obj\Debug\net6.0\8 Streepjes.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\8 Streepjes\obj\Debug\net6.0\8 Streepjes.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\8 Streepjes\obj\Debug\net6.0\refint\8 Streepjes.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\8 Streepjes\obj\Debug\net6.0\8 Streepjes.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\8 Streepjes\obj\Debug\net6.0\8 Streepjes.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\8 Streepjes\obj\Debug\net6.0\ref\8 Streepjes.dll

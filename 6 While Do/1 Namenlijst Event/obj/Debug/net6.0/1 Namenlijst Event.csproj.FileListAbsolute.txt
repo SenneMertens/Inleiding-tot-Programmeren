@@ -1,0 +1,15 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\6 While Do\1 Namenlijst Event\bin\Debug\net6.0\1 Namenlijst Event.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\6 While Do\1 Namenlijst Event\bin\Debug\net6.0\1 Namenlijst Event.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\6 While Do\1 Namenlijst Event\bin\Debug\net6.0\1 Namenlijst Event.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\6 While Do\1 Namenlijst Event\bin\Debug\net6.0\1 Namenlijst Event.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\6 While Do\1 Namenlijst Event\bin\Debug\net6.0\1 Namenlijst Event.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\6 While Do\1 Namenlijst Event\obj\Debug\net6.0\1 Namenlijst Event.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\6 While Do\1 Namenlijst Event\obj\Debug\net6.0\1 Namenlijst Event.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\6 While Do\1 Namenlijst Event\obj\Debug\net6.0\1 Namenlijst Event.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\6 While Do\1 Namenlijst Event\obj\Debug\net6.0\1 Namenlijst Event.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\6 While Do\1 Namenlijst Event\obj\Debug\net6.0\1 Namenlijst Event.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\6 While Do\1 Namenlijst Event\obj\Debug\net6.0\1 Namenlijst Event.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\6 While Do\1 Namenlijst Event\obj\Debug\net6.0\refint\1 Namenlijst Event.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\6 While Do\1 Namenlijst Event\obj\Debug\net6.0\1 Namenlijst Event.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\6 While Do\1 Namenlijst Event\obj\Debug\net6.0\1 Namenlijst Event.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\6 While Do\1 Namenlijst Event\obj\Debug\net6.0\ref\1 Namenlijst Event.dll

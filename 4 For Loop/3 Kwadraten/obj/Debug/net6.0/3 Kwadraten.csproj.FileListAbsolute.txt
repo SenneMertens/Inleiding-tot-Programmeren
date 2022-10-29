@@ -1,0 +1,15 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\3 Kwadraten\bin\Debug\net6.0\3 Kwadraten.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\3 Kwadraten\bin\Debug\net6.0\3 Kwadraten.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\3 Kwadraten\bin\Debug\net6.0\3 Kwadraten.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\3 Kwadraten\bin\Debug\net6.0\3 Kwadraten.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\3 Kwadraten\bin\Debug\net6.0\3 Kwadraten.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\3 Kwadraten\obj\Debug\net6.0\3 Kwadraten.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\3 Kwadraten\obj\Debug\net6.0\3 Kwadraten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\3 Kwadraten\obj\Debug\net6.0\3 Kwadraten.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\3 Kwadraten\obj\Debug\net6.0\3 Kwadraten.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\3 Kwadraten\obj\Debug\net6.0\3 Kwadraten.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\3 Kwadraten\obj\Debug\net6.0\3 Kwadraten.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\3 Kwadraten\obj\Debug\net6.0\refint\3 Kwadraten.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\3 Kwadraten\obj\Debug\net6.0\3 Kwadraten.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\3 Kwadraten\obj\Debug\net6.0\3 Kwadraten.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\3 Kwadraten\obj\Debug\net6.0\ref\3 Kwadraten.dll

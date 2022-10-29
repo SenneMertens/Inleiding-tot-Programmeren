@@ -1,0 +1,15 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\7 Kleuter of Peuter\bin\Debug\net6.0\7 Kleuter of Peuter.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\7 Kleuter of Peuter\bin\Debug\net6.0\7 Kleuter of Peuter.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\7 Kleuter of Peuter\bin\Debug\net6.0\7 Kleuter of Peuter.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\7 Kleuter of Peuter\bin\Debug\net6.0\7 Kleuter of Peuter.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\7 Kleuter of Peuter\bin\Debug\net6.0\7 Kleuter of Peuter.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\7 Kleuter of Peuter\obj\Debug\net6.0\7 Kleuter of Peuter.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\7 Kleuter of Peuter\obj\Debug\net6.0\7 Kleuter of Peuter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\7 Kleuter of Peuter\obj\Debug\net6.0\7 Kleuter of Peuter.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\7 Kleuter of Peuter\obj\Debug\net6.0\7 Kleuter of Peuter.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\7 Kleuter of Peuter\obj\Debug\net6.0\7 Kleuter of Peuter.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\7 Kleuter of Peuter\obj\Debug\net6.0\7 Kleuter of Peuter.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\7 Kleuter of Peuter\obj\Debug\net6.0\refint\7 Kleuter of Peuter.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\7 Kleuter of Peuter\obj\Debug\net6.0\7 Kleuter of Peuter.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\7 Kleuter of Peuter\obj\Debug\net6.0\7 Kleuter of Peuter.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\7 Kleuter of Peuter\obj\Debug\net6.0\ref\7 Kleuter of Peuter.dll

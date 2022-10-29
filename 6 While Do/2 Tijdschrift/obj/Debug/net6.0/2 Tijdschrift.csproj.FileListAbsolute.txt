@@ -1,0 +1,15 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\6 While Do\2 Tijdschrift\bin\Debug\net6.0\2 Tijdschrift.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\6 While Do\2 Tijdschrift\bin\Debug\net6.0\2 Tijdschrift.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\6 While Do\2 Tijdschrift\bin\Debug\net6.0\2 Tijdschrift.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\6 While Do\2 Tijdschrift\bin\Debug\net6.0\2 Tijdschrift.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\6 While Do\2 Tijdschrift\bin\Debug\net6.0\2 Tijdschrift.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\6 While Do\2 Tijdschrift\obj\Debug\net6.0\2 Tijdschrift.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\6 While Do\2 Tijdschrift\obj\Debug\net6.0\2 Tijdschrift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\6 While Do\2 Tijdschrift\obj\Debug\net6.0\2 Tijdschrift.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\6 While Do\2 Tijdschrift\obj\Debug\net6.0\2 Tijdschrift.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\6 While Do\2 Tijdschrift\obj\Debug\net6.0\2 Tijdschrift.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\6 While Do\2 Tijdschrift\obj\Debug\net6.0\2 Tijdschrift.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\6 While Do\2 Tijdschrift\obj\Debug\net6.0\refint\2 Tijdschrift.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\6 While Do\2 Tijdschrift\obj\Debug\net6.0\2 Tijdschrift.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\6 While Do\2 Tijdschrift\obj\Debug\net6.0\2 Tijdschrift.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\6 While Do\2 Tijdschrift\obj\Debug\net6.0\ref\2 Tijdschrift.dll

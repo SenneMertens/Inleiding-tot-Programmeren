@@ -1,0 +1,15 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\7 Klinkers\bin\Debug\net6.0\7 Klinkers.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\7 Klinkers\bin\Debug\net6.0\7 Klinkers.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\7 Klinkers\bin\Debug\net6.0\7 Klinkers.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\7 Klinkers\bin\Debug\net6.0\7 Klinkers.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\7 Klinkers\bin\Debug\net6.0\7 Klinkers.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\7 Klinkers\obj\Debug\net6.0\7 Klinkers.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\7 Klinkers\obj\Debug\net6.0\7 Klinkers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\7 Klinkers\obj\Debug\net6.0\7 Klinkers.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\7 Klinkers\obj\Debug\net6.0\7 Klinkers.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\7 Klinkers\obj\Debug\net6.0\7 Klinkers.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\7 Klinkers\obj\Debug\net6.0\7 Klinkers.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\7 Klinkers\obj\Debug\net6.0\refint\7 Klinkers.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\7 Klinkers\obj\Debug\net6.0\7 Klinkers.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\7 Klinkers\obj\Debug\net6.0\7 Klinkers.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\7 Klinkers\obj\Debug\net6.0\ref\7 Klinkers.dll

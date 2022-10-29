@@ -1,0 +1,15 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\4 Hobby\bin\Debug\net6.0\4 Hobby.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\4 Hobby\bin\Debug\net6.0\4 Hobby.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\4 Hobby\bin\Debug\net6.0\4 Hobby.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\4 Hobby\bin\Debug\net6.0\4 Hobby.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\4 Hobby\bin\Debug\net6.0\4 Hobby.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\4 Hobby\obj\Debug\net6.0\4 Hobby.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\4 Hobby\obj\Debug\net6.0\4 Hobby.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\4 Hobby\obj\Debug\net6.0\4 Hobby.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\4 Hobby\obj\Debug\net6.0\4 Hobby.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\4 Hobby\obj\Debug\net6.0\4 Hobby.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\4 Hobby\obj\Debug\net6.0\4 Hobby.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\4 Hobby\obj\Debug\net6.0\refint\4 Hobby.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\4 Hobby\obj\Debug\net6.0\4 Hobby.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\4 Hobby\obj\Debug\net6.0\4 Hobby.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\4 Hobby\obj\Debug\net6.0\ref\4 Hobby.dll

@@ -1,0 +1,15 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\8 Even Deelbaar\bin\Debug\net6.0\8 Even Deelbaar.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\8 Even Deelbaar\bin\Debug\net6.0\8 Even Deelbaar.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\8 Even Deelbaar\bin\Debug\net6.0\8 Even Deelbaar.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\8 Even Deelbaar\bin\Debug\net6.0\8 Even Deelbaar.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\8 Even Deelbaar\bin\Debug\net6.0\8 Even Deelbaar.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\8 Even Deelbaar\obj\Debug\net6.0\8 Even Deelbaar.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\8 Even Deelbaar\obj\Debug\net6.0\8 Even Deelbaar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\8 Even Deelbaar\obj\Debug\net6.0\8 Even Deelbaar.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\8 Even Deelbaar\obj\Debug\net6.0\8 Even Deelbaar.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\8 Even Deelbaar\obj\Debug\net6.0\8 Even Deelbaar.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\8 Even Deelbaar\obj\Debug\net6.0\8 Even Deelbaar.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\8 Even Deelbaar\obj\Debug\net6.0\refint\8 Even Deelbaar.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\8 Even Deelbaar\obj\Debug\net6.0\8 Even Deelbaar.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\8 Even Deelbaar\obj\Debug\net6.0\8 Even Deelbaar.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\8 Even Deelbaar\obj\Debug\net6.0\ref\8 Even Deelbaar.dll

@@ -1,0 +1,15 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\10 Letterwoord\bin\Debug\net6.0\10 Letterwoord.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\10 Letterwoord\bin\Debug\net6.0\10 Letterwoord.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\10 Letterwoord\bin\Debug\net6.0\10 Letterwoord.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\10 Letterwoord\bin\Debug\net6.0\10 Letterwoord.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\10 Letterwoord\bin\Debug\net6.0\10 Letterwoord.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\10 Letterwoord\obj\Debug\net6.0\10 Letterwoord.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\10 Letterwoord\obj\Debug\net6.0\10 Letterwoord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\10 Letterwoord\obj\Debug\net6.0\10 Letterwoord.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\10 Letterwoord\obj\Debug\net6.0\10 Letterwoord.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\10 Letterwoord\obj\Debug\net6.0\10 Letterwoord.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\10 Letterwoord\obj\Debug\net6.0\10 Letterwoord.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\10 Letterwoord\obj\Debug\net6.0\refint\10 Letterwoord.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\10 Letterwoord\obj\Debug\net6.0\10 Letterwoord.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\10 Letterwoord\obj\Debug\net6.0\10 Letterwoord.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\10 Letterwoord\obj\Debug\net6.0\ref\10 Letterwoord.dll

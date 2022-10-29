@@ -1,0 +1,15 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\9 Kwadraat\bin\Debug\net6.0\9 Kwadraat.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\9 Kwadraat\bin\Debug\net6.0\9 Kwadraat.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\9 Kwadraat\bin\Debug\net6.0\9 Kwadraat.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\9 Kwadraat\bin\Debug\net6.0\9 Kwadraat.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\9 Kwadraat\bin\Debug\net6.0\9 Kwadraat.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\9 Kwadraat\obj\Debug\net6.0\9 Kwadraat.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\9 Kwadraat\obj\Debug\net6.0\9 Kwadraat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\9 Kwadraat\obj\Debug\net6.0\9 Kwadraat.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\9 Kwadraat\obj\Debug\net6.0\9 Kwadraat.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\9 Kwadraat\obj\Debug\net6.0\9 Kwadraat.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\9 Kwadraat\obj\Debug\net6.0\9 Kwadraat.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\9 Kwadraat\obj\Debug\net6.0\refint\9 Kwadraat.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\9 Kwadraat\obj\Debug\net6.0\9 Kwadraat.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\9 Kwadraat\obj\Debug\net6.0\9 Kwadraat.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\9 Kwadraat\obj\Debug\net6.0\ref\9 Kwadraat.dll

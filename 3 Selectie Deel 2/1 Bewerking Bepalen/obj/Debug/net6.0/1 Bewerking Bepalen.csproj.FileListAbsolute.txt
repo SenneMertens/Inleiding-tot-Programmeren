@@ -1,0 +1,15 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\1 Bewerking Bepalen\bin\Debug\net6.0\1 Bewerking Bepalen.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\1 Bewerking Bepalen\bin\Debug\net6.0\1 Bewerking Bepalen.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\1 Bewerking Bepalen\bin\Debug\net6.0\1 Bewerking Bepalen.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\1 Bewerking Bepalen\bin\Debug\net6.0\1 Bewerking Bepalen.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\1 Bewerking Bepalen\bin\Debug\net6.0\1 Bewerking Bepalen.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\1 Bewerking Bepalen\obj\Debug\net6.0\1 Bewerking Bepalen.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\1 Bewerking Bepalen\obj\Debug\net6.0\1 Bewerking Bepalen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\1 Bewerking Bepalen\obj\Debug\net6.0\1 Bewerking Bepalen.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\1 Bewerking Bepalen\obj\Debug\net6.0\1 Bewerking Bepalen.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\1 Bewerking Bepalen\obj\Debug\net6.0\1 Bewerking Bepalen.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\1 Bewerking Bepalen\obj\Debug\net6.0\1 Bewerking Bepalen.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\1 Bewerking Bepalen\obj\Debug\net6.0\refint\1 Bewerking Bepalen.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\1 Bewerking Bepalen\obj\Debug\net6.0\1 Bewerking Bepalen.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\1 Bewerking Bepalen\obj\Debug\net6.0\1 Bewerking Bepalen.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\1 Bewerking Bepalen\obj\Debug\net6.0\ref\1 Bewerking Bepalen.dll

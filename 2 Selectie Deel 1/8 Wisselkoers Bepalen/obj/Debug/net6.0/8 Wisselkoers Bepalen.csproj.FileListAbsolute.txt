@@ -1,0 +1,15 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\8 Wisselkoers Bepalen\bin\Debug\net6.0\8 Wisselkoers Bepalen.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\8 Wisselkoers Bepalen\bin\Debug\net6.0\8 Wisselkoers Bepalen.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\8 Wisselkoers Bepalen\bin\Debug\net6.0\8 Wisselkoers Bepalen.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\8 Wisselkoers Bepalen\bin\Debug\net6.0\8 Wisselkoers Bepalen.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\8 Wisselkoers Bepalen\bin\Debug\net6.0\8 Wisselkoers Bepalen.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\8 Wisselkoers Bepalen\obj\Debug\net6.0\8 Wisselkoers Bepalen.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\8 Wisselkoers Bepalen\obj\Debug\net6.0\8 Wisselkoers Bepalen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\8 Wisselkoers Bepalen\obj\Debug\net6.0\8 Wisselkoers Bepalen.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\8 Wisselkoers Bepalen\obj\Debug\net6.0\8 Wisselkoers Bepalen.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\8 Wisselkoers Bepalen\obj\Debug\net6.0\8 Wisselkoers Bepalen.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\8 Wisselkoers Bepalen\obj\Debug\net6.0\8 Wisselkoers Bepalen.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\8 Wisselkoers Bepalen\obj\Debug\net6.0\refint\8 Wisselkoers Bepalen.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\8 Wisselkoers Bepalen\obj\Debug\net6.0\8 Wisselkoers Bepalen.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\8 Wisselkoers Bepalen\obj\Debug\net6.0\8 Wisselkoers Bepalen.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\8 Wisselkoers Bepalen\obj\Debug\net6.0\ref\8 Wisselkoers Bepalen.dll

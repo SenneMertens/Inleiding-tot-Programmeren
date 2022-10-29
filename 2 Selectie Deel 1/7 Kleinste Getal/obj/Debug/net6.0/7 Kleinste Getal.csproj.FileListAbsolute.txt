@@ -1,0 +1,15 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\7 Kleinste Getal\bin\Debug\net6.0\7 Kleinste Getal.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\7 Kleinste Getal\bin\Debug\net6.0\7 Kleinste Getal.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\7 Kleinste Getal\bin\Debug\net6.0\7 Kleinste Getal.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\7 Kleinste Getal\bin\Debug\net6.0\7 Kleinste Getal.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\7 Kleinste Getal\bin\Debug\net6.0\7 Kleinste Getal.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\7 Kleinste Getal\obj\Debug\net6.0\7 Kleinste Getal.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\7 Kleinste Getal\obj\Debug\net6.0\7 Kleinste Getal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\7 Kleinste Getal\obj\Debug\net6.0\7 Kleinste Getal.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\7 Kleinste Getal\obj\Debug\net6.0\7 Kleinste Getal.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\7 Kleinste Getal\obj\Debug\net6.0\7 Kleinste Getal.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\7 Kleinste Getal\obj\Debug\net6.0\7 Kleinste Getal.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\7 Kleinste Getal\obj\Debug\net6.0\refint\7 Kleinste Getal.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\7 Kleinste Getal\obj\Debug\net6.0\7 Kleinste Getal.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\7 Kleinste Getal\obj\Debug\net6.0\7 Kleinste Getal.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\7 Kleinste Getal\obj\Debug\net6.0\ref\7 Kleinste Getal.dll

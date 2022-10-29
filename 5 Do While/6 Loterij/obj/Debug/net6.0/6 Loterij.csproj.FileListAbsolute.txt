@@ -1,0 +1,15 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\6 Loterij\bin\Debug\net6.0\6 Loterij.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\6 Loterij\bin\Debug\net6.0\6 Loterij.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\6 Loterij\bin\Debug\net6.0\6 Loterij.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\6 Loterij\bin\Debug\net6.0\6 Loterij.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\6 Loterij\bin\Debug\net6.0\6 Loterij.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\6 Loterij\obj\Debug\net6.0\6 Loterij.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\6 Loterij\obj\Debug\net6.0\6 Loterij.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\6 Loterij\obj\Debug\net6.0\6 Loterij.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\6 Loterij\obj\Debug\net6.0\6 Loterij.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\6 Loterij\obj\Debug\net6.0\6 Loterij.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\6 Loterij\obj\Debug\net6.0\6 Loterij.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\6 Loterij\obj\Debug\net6.0\refint\6 Loterij.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\6 Loterij\obj\Debug\net6.0\6 Loterij.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\6 Loterij\obj\Debug\net6.0\6 Loterij.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\6 Loterij\obj\Debug\net6.0\ref\6 Loterij.dll

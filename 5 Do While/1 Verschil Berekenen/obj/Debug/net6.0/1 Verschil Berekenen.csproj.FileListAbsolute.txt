@@ -1,0 +1,15 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\1 Verschil Berekenen\bin\Debug\net6.0\1 Verschil Berekenen.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\1 Verschil Berekenen\bin\Debug\net6.0\1 Verschil Berekenen.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\1 Verschil Berekenen\bin\Debug\net6.0\1 Verschil Berekenen.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\1 Verschil Berekenen\bin\Debug\net6.0\1 Verschil Berekenen.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\1 Verschil Berekenen\bin\Debug\net6.0\1 Verschil Berekenen.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\1 Verschil Berekenen\obj\Debug\net6.0\1 Verschil Berekenen.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\1 Verschil Berekenen\obj\Debug\net6.0\1 Verschil Berekenen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\1 Verschil Berekenen\obj\Debug\net6.0\1 Verschil Berekenen.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\1 Verschil Berekenen\obj\Debug\net6.0\1 Verschil Berekenen.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\1 Verschil Berekenen\obj\Debug\net6.0\1 Verschil Berekenen.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\1 Verschil Berekenen\obj\Debug\net6.0\1 Verschil Berekenen.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\1 Verschil Berekenen\obj\Debug\net6.0\refint\1 Verschil Berekenen.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\1 Verschil Berekenen\obj\Debug\net6.0\1 Verschil Berekenen.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\1 Verschil Berekenen\obj\Debug\net6.0\1 Verschil Berekenen.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\5 Do While\1 Verschil Berekenen\obj\Debug\net6.0\ref\1 Verschil Berekenen.dll

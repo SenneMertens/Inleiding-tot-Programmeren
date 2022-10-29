@@ -1,0 +1,24 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\4 Gedichten\bin\Debug\net6.0\4 Gedichten.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\4 Gedichten\bin\Debug\net6.0\gedicht-1.txt
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\4 Gedichten\bin\Debug\net6.0\gedicht-10.txt
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\4 Gedichten\bin\Debug\net6.0\gedicht-11.txt
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\4 Gedichten\bin\Debug\net6.0\gedicht-2.txt
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\4 Gedichten\bin\Debug\net6.0\gedicht-3.txt
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\4 Gedichten\bin\Debug\net6.0\gedicht-4.txt
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\4 Gedichten\bin\Debug\net6.0\gedicht-5.txt
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\4 Gedichten\bin\Debug\net6.0\gedicht-6.txt
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\4 Gedichten\bin\Debug\net6.0\gedicht-7.txt
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\4 Gedichten\bin\Debug\net6.0\4 Gedichten.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\4 Gedichten\bin\Debug\net6.0\4 Gedichten.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\4 Gedichten\bin\Debug\net6.0\4 Gedichten.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\4 Gedichten\bin\Debug\net6.0\4 Gedichten.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\4 Gedichten\obj\Debug\net6.0\4 Gedichten.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\4 Gedichten\obj\Debug\net6.0\4 Gedichten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\4 Gedichten\obj\Debug\net6.0\4 Gedichten.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\4 Gedichten\obj\Debug\net6.0\4 Gedichten.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\4 Gedichten\obj\Debug\net6.0\4 Gedichten.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\4 Gedichten\obj\Debug\net6.0\4 Gedichten.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\4 Gedichten\obj\Debug\net6.0\refint\4 Gedichten.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\4 Gedichten\obj\Debug\net6.0\4 Gedichten.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\4 Gedichten\obj\Debug\net6.0\4 Gedichten.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\9 Bestanden\4 Gedichten\obj\Debug\net6.0\ref\4 Gedichten.dll

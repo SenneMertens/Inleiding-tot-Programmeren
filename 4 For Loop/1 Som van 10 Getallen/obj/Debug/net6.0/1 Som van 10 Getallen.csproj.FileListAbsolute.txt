@@ -1,0 +1,15 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\1 Som van 10 Getallen\bin\Debug\net6.0\1 Som van 10 Getallen.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\1 Som van 10 Getallen\bin\Debug\net6.0\1 Som van 10 Getallen.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\1 Som van 10 Getallen\bin\Debug\net6.0\1 Som van 10 Getallen.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\1 Som van 10 Getallen\bin\Debug\net6.0\1 Som van 10 Getallen.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\1 Som van 10 Getallen\bin\Debug\net6.0\1 Som van 10 Getallen.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\1 Som van 10 Getallen\obj\Debug\net6.0\1 Som van 10 Getallen.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\1 Som van 10 Getallen\obj\Debug\net6.0\1 Som van 10 Getallen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\1 Som van 10 Getallen\obj\Debug\net6.0\1 Som van 10 Getallen.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\1 Som van 10 Getallen\obj\Debug\net6.0\1 Som van 10 Getallen.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\1 Som van 10 Getallen\obj\Debug\net6.0\1 Som van 10 Getallen.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\1 Som van 10 Getallen\obj\Debug\net6.0\1 Som van 10 Getallen.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\1 Som van 10 Getallen\obj\Debug\net6.0\refint\1 Som van 10 Getallen.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\1 Som van 10 Getallen\obj\Debug\net6.0\1 Som van 10 Getallen.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\1 Som van 10 Getallen\obj\Debug\net6.0\1 Som van 10 Getallen.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\1 Som van 10 Getallen\obj\Debug\net6.0\ref\1 Som van 10 Getallen.dll

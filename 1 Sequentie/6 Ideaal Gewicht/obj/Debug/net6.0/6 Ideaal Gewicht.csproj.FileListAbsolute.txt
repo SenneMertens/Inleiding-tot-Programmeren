@@ -1,0 +1,15 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\6 Ideaal Gewicht\bin\Debug\net6.0\6 Ideaal Gewicht.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\6 Ideaal Gewicht\bin\Debug\net6.0\6 Ideaal Gewicht.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\6 Ideaal Gewicht\bin\Debug\net6.0\6 Ideaal Gewicht.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\6 Ideaal Gewicht\bin\Debug\net6.0\6 Ideaal Gewicht.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\6 Ideaal Gewicht\bin\Debug\net6.0\6 Ideaal Gewicht.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\6 Ideaal Gewicht\obj\Debug\net6.0\6 Ideaal Gewicht.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\6 Ideaal Gewicht\obj\Debug\net6.0\6 Ideaal Gewicht.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\6 Ideaal Gewicht\obj\Debug\net6.0\6 Ideaal Gewicht.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\6 Ideaal Gewicht\obj\Debug\net6.0\6 Ideaal Gewicht.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\6 Ideaal Gewicht\obj\Debug\net6.0\6 Ideaal Gewicht.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\6 Ideaal Gewicht\obj\Debug\net6.0\6 Ideaal Gewicht.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\6 Ideaal Gewicht\obj\Debug\net6.0\refint\6 Ideaal Gewicht.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\6 Ideaal Gewicht\obj\Debug\net6.0\6 Ideaal Gewicht.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\6 Ideaal Gewicht\obj\Debug\net6.0\6 Ideaal Gewicht.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\6 Ideaal Gewicht\obj\Debug\net6.0\ref\6 Ideaal Gewicht.dll

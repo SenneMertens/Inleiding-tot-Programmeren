@@ -1,0 +1,15 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\5 Kwadranten\bin\Debug\net6.0\5 Kwadranten.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\5 Kwadranten\bin\Debug\net6.0\5 Kwadranten.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\5 Kwadranten\bin\Debug\net6.0\5 Kwadranten.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\5 Kwadranten\bin\Debug\net6.0\5 Kwadranten.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\5 Kwadranten\bin\Debug\net6.0\5 Kwadranten.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\5 Kwadranten\obj\Debug\net6.0\5 Kwadranten.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\5 Kwadranten\obj\Debug\net6.0\5 Kwadranten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\5 Kwadranten\obj\Debug\net6.0\5 Kwadranten.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\5 Kwadranten\obj\Debug\net6.0\5 Kwadranten.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\5 Kwadranten\obj\Debug\net6.0\5 Kwadranten.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\5 Kwadranten\obj\Debug\net6.0\5 Kwadranten.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\5 Kwadranten\obj\Debug\net6.0\refint\5 Kwadranten.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\5 Kwadranten\obj\Debug\net6.0\5 Kwadranten.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\5 Kwadranten\obj\Debug\net6.0\5 Kwadranten.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\5 Kwadranten\obj\Debug\net6.0\ref\5 Kwadranten.dll

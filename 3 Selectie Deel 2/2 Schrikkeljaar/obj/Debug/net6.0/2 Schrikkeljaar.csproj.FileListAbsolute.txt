@@ -1,0 +1,15 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\2 Schrikkeljaar\bin\Debug\net6.0\2 Schrikkeljaar.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\2 Schrikkeljaar\bin\Debug\net6.0\2 Schrikkeljaar.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\2 Schrikkeljaar\bin\Debug\net6.0\2 Schrikkeljaar.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\2 Schrikkeljaar\bin\Debug\net6.0\2 Schrikkeljaar.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\2 Schrikkeljaar\bin\Debug\net6.0\2 Schrikkeljaar.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\2 Schrikkeljaar\obj\Debug\net6.0\2 Schrikkeljaar.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\2 Schrikkeljaar\obj\Debug\net6.0\2 Schrikkeljaar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\2 Schrikkeljaar\obj\Debug\net6.0\2 Schrikkeljaar.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\2 Schrikkeljaar\obj\Debug\net6.0\2 Schrikkeljaar.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\2 Schrikkeljaar\obj\Debug\net6.0\2 Schrikkeljaar.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\2 Schrikkeljaar\obj\Debug\net6.0\2 Schrikkeljaar.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\2 Schrikkeljaar\obj\Debug\net6.0\refint\2 Schrikkeljaar.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\2 Schrikkeljaar\obj\Debug\net6.0\2 Schrikkeljaar.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\2 Schrikkeljaar\obj\Debug\net6.0\2 Schrikkeljaar.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\2 Schrikkeljaar\obj\Debug\net6.0\ref\2 Schrikkeljaar.dll

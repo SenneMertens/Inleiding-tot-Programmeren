@@ -1,0 +1,15 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\2 Rekeningnummer\bin\Debug\net6.0\2 Rekeningnummer.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\2 Rekeningnummer\bin\Debug\net6.0\2 Rekeningnummer.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\2 Rekeningnummer\bin\Debug\net6.0\2 Rekeningnummer.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\2 Rekeningnummer\bin\Debug\net6.0\2 Rekeningnummer.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\2 Rekeningnummer\bin\Debug\net6.0\2 Rekeningnummer.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\2 Rekeningnummer\obj\Debug\net6.0\2 Rekeningnummer.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\2 Rekeningnummer\obj\Debug\net6.0\2 Rekeningnummer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\2 Rekeningnummer\obj\Debug\net6.0\2 Rekeningnummer.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\2 Rekeningnummer\obj\Debug\net6.0\2 Rekeningnummer.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\2 Rekeningnummer\obj\Debug\net6.0\2 Rekeningnummer.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\2 Rekeningnummer\obj\Debug\net6.0\2 Rekeningnummer.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\2 Rekeningnummer\obj\Debug\net6.0\refint\2 Rekeningnummer.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\2 Rekeningnummer\obj\Debug\net6.0\2 Rekeningnummer.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\2 Rekeningnummer\obj\Debug\net6.0\2 Rekeningnummer.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\8 Stringmethodes\2 Rekeningnummer\obj\Debug\net6.0\ref\2 Rekeningnummer.dll

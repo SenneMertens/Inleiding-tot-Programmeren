@@ -1,0 +1,15 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\2 Geluksgetal\bin\Debug\net6.0\2 Geluksgetal.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\2 Geluksgetal\bin\Debug\net6.0\2 Geluksgetal.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\2 Geluksgetal\bin\Debug\net6.0\2 Geluksgetal.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\2 Geluksgetal\bin\Debug\net6.0\2 Geluksgetal.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\2 Geluksgetal\bin\Debug\net6.0\2 Geluksgetal.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\2 Geluksgetal\obj\Debug\net6.0\2 Geluksgetal.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\2 Geluksgetal\obj\Debug\net6.0\2 Geluksgetal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\2 Geluksgetal\obj\Debug\net6.0\2 Geluksgetal.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\2 Geluksgetal\obj\Debug\net6.0\2 Geluksgetal.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\2 Geluksgetal\obj\Debug\net6.0\2 Geluksgetal.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\2 Geluksgetal\obj\Debug\net6.0\2 Geluksgetal.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\2 Geluksgetal\obj\Debug\net6.0\refint\2 Geluksgetal.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\2 Geluksgetal\obj\Debug\net6.0\2 Geluksgetal.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\2 Geluksgetal\obj\Debug\net6.0\2 Geluksgetal.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\4 For Loop\2 Geluksgetal\obj\Debug\net6.0\ref\2 Geluksgetal.dll

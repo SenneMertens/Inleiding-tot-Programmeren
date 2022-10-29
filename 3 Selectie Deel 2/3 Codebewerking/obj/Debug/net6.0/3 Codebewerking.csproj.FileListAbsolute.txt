@@ -1,0 +1,15 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\3 Codebewerking\bin\Debug\net6.0\3 Codebewerking.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\3 Codebewerking\bin\Debug\net6.0\3 Codebewerking.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\3 Codebewerking\bin\Debug\net6.0\3 Codebewerking.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\3 Codebewerking\bin\Debug\net6.0\3 Codebewerking.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\3 Codebewerking\bin\Debug\net6.0\3 Codebewerking.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\3 Codebewerking\obj\Debug\net6.0\3 Codebewerking.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\3 Codebewerking\obj\Debug\net6.0\3 Codebewerking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\3 Codebewerking\obj\Debug\net6.0\3 Codebewerking.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\3 Codebewerking\obj\Debug\net6.0\3 Codebewerking.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\3 Codebewerking\obj\Debug\net6.0\3 Codebewerking.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\3 Codebewerking\obj\Debug\net6.0\3 Codebewerking.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\3 Codebewerking\obj\Debug\net6.0\refint\3 Codebewerking.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\3 Codebewerking\obj\Debug\net6.0\3 Codebewerking.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\3 Codebewerking\obj\Debug\net6.0\3 Codebewerking.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\3 Codebewerking\obj\Debug\net6.0\ref\3 Codebewerking.dll

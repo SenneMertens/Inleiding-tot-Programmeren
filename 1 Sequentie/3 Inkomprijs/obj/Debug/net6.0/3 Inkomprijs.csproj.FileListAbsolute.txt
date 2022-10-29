@@ -1,0 +1,15 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\3 Inkomprijs\bin\Debug\net6.0\3 Inkomprijs.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\3 Inkomprijs\bin\Debug\net6.0\3 Inkomprijs.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\3 Inkomprijs\bin\Debug\net6.0\3 Inkomprijs.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\3 Inkomprijs\bin\Debug\net6.0\3 Inkomprijs.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\3 Inkomprijs\bin\Debug\net6.0\3 Inkomprijs.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\3 Inkomprijs\obj\Debug\net6.0\3 Inkomprijs.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\3 Inkomprijs\obj\Debug\net6.0\3 Inkomprijs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\3 Inkomprijs\obj\Debug\net6.0\3 Inkomprijs.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\3 Inkomprijs\obj\Debug\net6.0\3 Inkomprijs.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\3 Inkomprijs\obj\Debug\net6.0\3 Inkomprijs.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\3 Inkomprijs\obj\Debug\net6.0\3 Inkomprijs.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\3 Inkomprijs\obj\Debug\net6.0\refint\3 Inkomprijs.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\3 Inkomprijs\obj\Debug\net6.0\3 Inkomprijs.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\3 Inkomprijs\obj\Debug\net6.0\3 Inkomprijs.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\3 Inkomprijs\obj\Debug\net6.0\ref\3 Inkomprijs.dll

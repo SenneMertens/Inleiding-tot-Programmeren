@@ -1,0 +1,15 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\4 Telefoongesprekken\bin\Debug\net6.0\4 Telefoongesprekken.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\4 Telefoongesprekken\bin\Debug\net6.0\4 Telefoongesprekken.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\4 Telefoongesprekken\bin\Debug\net6.0\4 Telefoongesprekken.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\4 Telefoongesprekken\bin\Debug\net6.0\4 Telefoongesprekken.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\4 Telefoongesprekken\bin\Debug\net6.0\4 Telefoongesprekken.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\4 Telefoongesprekken\obj\Debug\net6.0\4 Telefoongesprekken.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\4 Telefoongesprekken\obj\Debug\net6.0\4 Telefoongesprekken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\4 Telefoongesprekken\obj\Debug\net6.0\4 Telefoongesprekken.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\4 Telefoongesprekken\obj\Debug\net6.0\4 Telefoongesprekken.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\4 Telefoongesprekken\obj\Debug\net6.0\4 Telefoongesprekken.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\4 Telefoongesprekken\obj\Debug\net6.0\4 Telefoongesprekken.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\4 Telefoongesprekken\obj\Debug\net6.0\refint\4 Telefoongesprekken.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\4 Telefoongesprekken\obj\Debug\net6.0\4 Telefoongesprekken.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\4 Telefoongesprekken\obj\Debug\net6.0\4 Telefoongesprekken.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\4 Telefoongesprekken\obj\Debug\net6.0\ref\4 Telefoongesprekken.dll

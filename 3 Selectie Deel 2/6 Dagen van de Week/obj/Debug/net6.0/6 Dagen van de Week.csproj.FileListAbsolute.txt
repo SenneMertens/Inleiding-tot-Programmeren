@@ -1,0 +1,15 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\6 Dagen van de Week\bin\Debug\net6.0\6 Dagen van de Week.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\6 Dagen van de Week\bin\Debug\net6.0\6 Dagen van de Week.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\6 Dagen van de Week\bin\Debug\net6.0\6 Dagen van de Week.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\6 Dagen van de Week\bin\Debug\net6.0\6 Dagen van de Week.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\6 Dagen van de Week\bin\Debug\net6.0\6 Dagen van de Week.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\6 Dagen van de Week\obj\Debug\net6.0\6 Dagen van de Week.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\6 Dagen van de Week\obj\Debug\net6.0\6 Dagen van de Week.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\6 Dagen van de Week\obj\Debug\net6.0\6 Dagen van de Week.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\6 Dagen van de Week\obj\Debug\net6.0\6 Dagen van de Week.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\6 Dagen van de Week\obj\Debug\net6.0\6 Dagen van de Week.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\6 Dagen van de Week\obj\Debug\net6.0\6 Dagen van de Week.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\6 Dagen van de Week\obj\Debug\net6.0\refint\6 Dagen van de Week.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\6 Dagen van de Week\obj\Debug\net6.0\6 Dagen van de Week.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\6 Dagen van de Week\obj\Debug\net6.0\6 Dagen van de Week.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\6 Dagen van de Week\obj\Debug\net6.0\ref\6 Dagen van de Week.dll

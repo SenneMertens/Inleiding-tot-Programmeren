@@ -1,0 +1,15 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\0 Klinker of Niet\bin\Debug\net6.0\0 Klinker of Niet.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\0 Klinker of Niet\bin\Debug\net6.0\0 Klinker of Niet.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\0 Klinker of Niet\bin\Debug\net6.0\0 Klinker of Niet.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\0 Klinker of Niet\bin\Debug\net6.0\0 Klinker of Niet.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\0 Klinker of Niet\bin\Debug\net6.0\0 Klinker of Niet.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\0 Klinker of Niet\obj\Debug\net6.0\0 Klinker of Niet.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\0 Klinker of Niet\obj\Debug\net6.0\0 Klinker of Niet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\0 Klinker of Niet\obj\Debug\net6.0\0 Klinker of Niet.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\0 Klinker of Niet\obj\Debug\net6.0\0 Klinker of Niet.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\0 Klinker of Niet\obj\Debug\net6.0\0 Klinker of Niet.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\0 Klinker of Niet\obj\Debug\net6.0\0 Klinker of Niet.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\0 Klinker of Niet\obj\Debug\net6.0\refint\0 Klinker of Niet.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\0 Klinker of Niet\obj\Debug\net6.0\0 Klinker of Niet.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\0 Klinker of Niet\obj\Debug\net6.0\0 Klinker of Niet.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\3 Selectie Deel 2\0 Klinker of Niet\obj\Debug\net6.0\ref\0 Klinker of Niet.dll

@@ -1,0 +1,15 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\0 Positief of Negatief\bin\Debug\net6.0\0 Positief of Negatief.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\0 Positief of Negatief\bin\Debug\net6.0\0 Positief of Negatief.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\0 Positief of Negatief\bin\Debug\net6.0\0 Positief of Negatief.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\0 Positief of Negatief\bin\Debug\net6.0\0 Positief of Negatief.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\0 Positief of Negatief\bin\Debug\net6.0\0 Positief of Negatief.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\0 Positief of Negatief\obj\Debug\net6.0\0 Positief of Negatief.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\0 Positief of Negatief\obj\Debug\net6.0\0 Positief of Negatief.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\0 Positief of Negatief\obj\Debug\net6.0\0 Positief of Negatief.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\0 Positief of Negatief\obj\Debug\net6.0\0 Positief of Negatief.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\0 Positief of Negatief\obj\Debug\net6.0\0 Positief of Negatief.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\0 Positief of Negatief\obj\Debug\net6.0\0 Positief of Negatief.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\0 Positief of Negatief\obj\Debug\net6.0\refint\0 Positief of Negatief.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\0 Positief of Negatief\obj\Debug\net6.0\0 Positief of Negatief.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\0 Positief of Negatief\obj\Debug\net6.0\0 Positief of Negatief.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\2 Selectie Deel 1\0 Positief of Negatief\obj\Debug\net6.0\ref\0 Positief of Negatief.dll

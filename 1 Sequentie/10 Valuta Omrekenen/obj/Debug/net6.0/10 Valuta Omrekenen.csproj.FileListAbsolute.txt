@@ -1,0 +1,15 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\10 Valuta Omrekenen\bin\Debug\net6.0\10 Valuta Omrekenen.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\10 Valuta Omrekenen\bin\Debug\net6.0\10 Valuta Omrekenen.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\10 Valuta Omrekenen\bin\Debug\net6.0\10 Valuta Omrekenen.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\10 Valuta Omrekenen\bin\Debug\net6.0\10 Valuta Omrekenen.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\10 Valuta Omrekenen\bin\Debug\net6.0\10 Valuta Omrekenen.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\10 Valuta Omrekenen\obj\Debug\net6.0\10 Valuta Omrekenen.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\10 Valuta Omrekenen\obj\Debug\net6.0\10 Valuta Omrekenen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\10 Valuta Omrekenen\obj\Debug\net6.0\10 Valuta Omrekenen.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\10 Valuta Omrekenen\obj\Debug\net6.0\10 Valuta Omrekenen.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\10 Valuta Omrekenen\obj\Debug\net6.0\10 Valuta Omrekenen.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\10 Valuta Omrekenen\obj\Debug\net6.0\10 Valuta Omrekenen.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\10 Valuta Omrekenen\obj\Debug\net6.0\refint\10 Valuta Omrekenen.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\10 Valuta Omrekenen\obj\Debug\net6.0\10 Valuta Omrekenen.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\10 Valuta Omrekenen\obj\Debug\net6.0\10 Valuta Omrekenen.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\10 Valuta Omrekenen\obj\Debug\net6.0\ref\10 Valuta Omrekenen.dll

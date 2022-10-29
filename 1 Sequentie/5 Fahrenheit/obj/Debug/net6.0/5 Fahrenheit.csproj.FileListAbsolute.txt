@@ -1,0 +1,15 @@
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\5 Fahrenheit\bin\Debug\net6.0\5 Fahrenheit.exe
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\5 Fahrenheit\bin\Debug\net6.0\5 Fahrenheit.deps.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\5 Fahrenheit\bin\Debug\net6.0\5 Fahrenheit.runtimeconfig.json
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\5 Fahrenheit\bin\Debug\net6.0\5 Fahrenheit.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\5 Fahrenheit\bin\Debug\net6.0\5 Fahrenheit.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\5 Fahrenheit\obj\Debug\net6.0\5 Fahrenheit.csproj.AssemblyReference.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\5 Fahrenheit\obj\Debug\net6.0\5 Fahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\5 Fahrenheit\obj\Debug\net6.0\5 Fahrenheit.AssemblyInfoInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\5 Fahrenheit\obj\Debug\net6.0\5 Fahrenheit.AssemblyInfo.cs
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\5 Fahrenheit\obj\Debug\net6.0\5 Fahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\5 Fahrenheit\obj\Debug\net6.0\5 Fahrenheit.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\5 Fahrenheit\obj\Debug\net6.0\refint\5 Fahrenheit.dll
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\5 Fahrenheit\obj\Debug\net6.0\5 Fahrenheit.pdb
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\5 Fahrenheit\obj\Debug\net6.0\5 Fahrenheit.genruntimeconfig.cache
+C:\Users\Senne\Documents\Visual Studio 2022\Projects\Inleiding tot Programmeren\1 Sequentie\5 Fahrenheit\obj\Debug\net6.0\ref\5 Fahrenheit.dll
